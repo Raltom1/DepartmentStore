@@ -43,5 +43,6 @@ cashiersBtn.addEventListener("click", () => {
 // Logout button (demo)
 logoutBtn.addEventListener("click", () => {
   alert("Logging out...");
-  window.location.href = "index-login.html"; // balik sa login page
+  window.location.href = "index.html"; // balik sa login page
+
 });
